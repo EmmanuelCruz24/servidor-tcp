@@ -1,0 +1,12 @@
+{
+  "name": "tcp",
+  "version": "1.0.0",
+  "main": "tcp-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": " Emmanuel Cruz",
+  "license": "ISC",
+  "description": " Mi Practica sobre un Servidor TCP"
+}
